@@ -8,6 +8,10 @@ En este lugar yase nuestro protagonista.
 
 ![personoaje](./character.svg)
 
+Este misterioso personaje contaba con un artículo muy peculiar...
+
+![sombrero](./hat.svg)
+
 <style>
 body {
     background: lightgrey;
