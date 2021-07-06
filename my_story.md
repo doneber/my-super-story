@@ -12,6 +12,10 @@ Este misterioso personaje contaba con un artículo muy peculiar...
 
 ![sombrero](./hat.svg)
 
+Tambien en estas tierras se encontraba otro misterioso ser llamado "pulpito"
+
+![pulpito](./pulpito.svg)
+
 <style>
 body {
     background: lightgrey;
