@@ -16,6 +16,10 @@ Tambien en estas tierras se encontraba otro misterioso ser llamado "pulpito"
 
 ![pulpito](./pulpito.svg)
 
+---
+
+Gracias por leer esta maravillosa historia
+
 <style>
 body {
     background: lightgrey;
